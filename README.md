@@ -6,4 +6,4 @@ Each data point that is used is numbered (ex: 1., 3A., etc.) depending on its re
 
 Created for Milliken Mills High School SAC (Student Activities Council)
 
-• Jess H.
+• Jesse H.
